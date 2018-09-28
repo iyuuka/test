@@ -1,0 +1,96 @@
+header{
+    background: black;
+    width: 100%;
+    height: 60px;
+    margin-bottom: 15px;
+}
+
+header ul li{
+    display: inline;
+    list-style: none;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    line-height: 60px;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+
+.title{
+    font-size: 25px;
+    border-left: solid;
+    border-bottom: solid;
+}
+
+h2{ 
+    margin-top:30px;
+    margin-bottom:0px;
+    margin-left: 15px;
+    border-left:4px red solid;
+    background-color:#f1f1f1;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:15px;
+    font-size:20px;
+}
+
+.left{
+    display:inline-block;
+    width:68%;
+}
+
+form{
+    background-color:#f1f1f1;
+    border:3px #ebebeb solid;
+}
+
+form div{
+    padding:15px;
+}
+
+.kiji{
+    padding:10px;
+    margin-top:15px;
+    margin-bottom:15px;
+    background-color:#f1f1f1;
+    border:3px #ebebeb solid;
+}
+
+h3{
+    border-bottom:3px #ebebeb solid;
+}
+
+.right{
+    margin-top: 0px;
+    float: right;
+    width: 30%;
+}
+
+.right h1{
+    font-size: 18px;
+    border-bottom: dotted;
+    margin: 0;
+}
+
+.right ul{
+    margin:0o;
+    list-style: none;
+    padding-left: 0px;
+}
+
+.right ul li{
+    padding-bottom: 10px;
+}
+
+footer{
+    clear: both;
+    width: 100%;
+    bottom: 0px;
+    left: 0px;
+    background-color: black;
+    height: 60px;
+    color: white;
+    text-align: center;
+    line-height: 60px;
+    margin-top:20px;
+}
